@@ -1,0 +1,2 @@
+[12-Aug-2014 01:03:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/thinkcon/public_html/feedbackform/secure_email_code.php on line 31
+[12-Aug-2014 01:03:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/thinkcon/public_html/feedbackform/secure_email_code.php on line 31

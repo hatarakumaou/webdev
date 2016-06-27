@@ -1,0 +1,1 @@
+$(function(){$('#setCurrency').jqTransform({imgPath:'jqtransformplugin/img/'});$("#cart-buttons a").append("<span></span>");});$(window).load(function(){$("#tmbannerblock2  img").insetBorder({speed:250,borderColor:"#e9e9e9",inset:5,borderType:"solid",outerClass:"ibe_outer_nofloat",innerClass:"ibe_inner"});});
